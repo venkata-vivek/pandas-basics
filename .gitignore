@@ -1,0 +1,5 @@
+# Ignore the data folder
+data/
+
+# Ignore the pandas-env folder
+pandas-env/
